@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "Cameron McGarry",
+    "email": "cameron@cmcgarry.co.uk",
+    "latex_class": "resumay"
+  },
+  "sections": 
+  [
+    {
+      "title":"Education",
+      "publish":true,
+      "id":"education",
+      "positions":[
+        {
+          "title":"Imperial College London",
+          "subtitle":"PhD: Controlled Quantum Dynamics",
+          "start":"October 2017",
+          "end":"Present",
+          "comments":[
+           "Student in controlled quantum dynamics centre for doctoral training",
+           "Graded “distinction” in master’s year",
+           "Designing and microfabricating a chip trap for robust containment and control of cold molecules",
+           "Applications in quantum technology, thermodynamics and communications"
+          ],
+          "skills":[
+            "quantum optics, chemistry and information",
+            "laser science",
+            "microfabrication",
+            "Python",
+            "Mathematica"
+          ]
+        },
+        {
+          "title":"University of Oxford ",
+          "subtitle":"Master of Physics",
+          "start":"October 2013",
+          "end":"July 2017",
+          "comments":[
+            "Master of Physics, Upper Second Class Honours, integrated master’s and undergraduate degrees",
+            "Master’s project: use of compressed sensing in plasma wakefield accelerators"
+          ],
+          "skills":[
+            "atomic, molecular and laser physics",
+            "quantum information",
+            "condensed matter physics"
+          ]
+        }
+      ]
+    },
+    {
+      "title":"Research placements",
+      "publish":true,
+      "id":"research",
+      "positions":[
+        {
+          "title":"Superconducting qubits, Department of Physics, Unviersity of Oxford",
+          "start":"Summer 2016",
+          "comments":[
+            "Simulated and developed signal attenuator for use in experiments with superconducting qubits",
+            "Eight week summer placement in Prof. Peter Leek's research group."
+          ],
+          "skills":[
+            "quantum engineering",
+            "CAD",
+            "Python",
+            "Mathematica"
+          ]
+        },
+        {
+          "title":"Unconventional computing, YCCSA, University of York",
+          "start":"Summer 2015",
+          "comments":[
+            "Undertook research into novel forms of classical computation using nuclear magnetic resonance",
+            "Utilised this well-understood “sandbox” environment to implement systems with continuous logic"
+          ],
+          "skills":[
+            "quantum mechanics",
+            "Python"
+          ]
+        }
+      ]
+    },
+    {
+      "title":"Software projects",
+      "publish":true,
+      "id":"software",
+      "positions":[
+        {
+          "title":"Oxford University Rowing Clubs Website",
+          "start":"October 2017",
+          "end":"January 2019",
+          "comments":[
+              "Began and lead development of a new CMS-based website as coordinator of small team",
+              "Integrated with an existing system for handling entries into rowing events",
+              "Also responsible for deployment and server maintenance"
+          ],
+          "skills":[
+            "Python",
+            "Django",
+            "SQL",
+            "Apache",
+            "AWS"
+          ]
+        },
+        {
+          "title":"Qiskit contributor",
+          "start":"December 2019",
+          "end":"Present",
+          "comments":[
+            "Contributed to open source project",
+            "<a href=\"https://qiskit.org\">Qiskit</a> is a toolkit for interacting with quantum processors, procuced by IBM."
+          ],
+          "skills":[
+            "Python",
+            "quantum computing"
+          ]
+        }
+      ]
+    },
+    {
+      "title":"Other experience",
+      "publish":true,
+      "id":"other",
+      "positions":[
+        {
+          "title":"Python lab demonstrating, Imperial College London",
+          "start":"October 2018",
+          "end":"Present",
+          "comments":[
+              "Demonstrator in Python course for second year physics undergraduates",
+              "Teaching basics of object-oriented programming"
+          ]
+        },
+        {
+          "title":"President, Corpus Christi College Boat Club",
+          "start":"March 2016",
+          "end":"March 2017",
+          "comments":[
+             "Responsibility for equimpent, safety and general running of the club",
+             "Set out plans for long-term financial security by working with alumni and rasing profile to attract potential sponsors"
+          ]
+        },
+        {
+          "title":"Treasurer, Oxford University Alternative Pickup Ice Hockey Club",
+          "start":"March 2014",
+          "end":"March 2015",
+          "comments":[
+             "Ran ice hockey sessions including collecting payment and ensuring safety",
+             "Reduced financial defecit by approximately 80%, by focusing heavily on recruitment"
+          ]
+        }
+      ]
+    }
+  ]
+}

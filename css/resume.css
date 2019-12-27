@@ -50,3 +50,7 @@ section.resume-section .resume-item .resume-date {
 .resume-skills {
   font-style: italic;
 }
+
+.resume-skills:first-letter {
+  text-transform: capitalize;
+}
