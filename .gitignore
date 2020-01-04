@@ -1,5 +1,7 @@
 /venv/
 /node_modules/
+/_site/
+/.jekyll-cache/
 
 # Don't accidentally commit tex files
 files/*.tex
