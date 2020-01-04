@@ -2,6 +2,6 @@
 /node_modules/
 
 # Don't accidentally commit tex files
-files/cv.tex
-files/cv.log
-files/cv.aux
+files/*.tex
+files/*.log
+files/*.aux
