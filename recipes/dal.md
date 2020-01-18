@@ -44,11 +44,12 @@ off.
 While the lentils are boiling, make the curry paste. Dry fry the seeds then
 crush in a pestel and mortar. Chop and add the corriander stalks and chilli.
 Squeeze in the tomato paste and season (best to crush whole black peppercorns).
-Set aside.
+Add a lug of oil. Set aside.
 
 Fry onions in gee. Once golden add your curry paste, garlic, ginger and garam
 masala for a couple of minutes. Toss in chopped fresh tomatoes and fry until
-cooked.
+cooked. You're going to put this into the lentils so it should probably be
+over-seasoned to the taste.
 
 Once the lentils are creamy add the onion mix. You can either leave bubbling for
 another ten minutes or turn off the heat and reheat when ready.
