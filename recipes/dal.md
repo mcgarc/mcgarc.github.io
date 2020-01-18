@@ -1,4 +1,7 @@
-# Dal
+---
+title: Dal
+layout: page
+---
 
 The lentils can take quite a long time to cook; this isn't a quick meal, but you
 can make a big batch. You can also save some of the curry paste.
