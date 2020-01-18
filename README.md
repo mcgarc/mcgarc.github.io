@@ -3,7 +3,10 @@ Personal website with Github pages
 
 ## Testing
 
-Install jekyll and bundler for local testing: `gem install jekyll bundler`. May
-require `ruby-dev` to be installed via apt.
+Install gem (`sudo apt install rubygems`)
 
-Use `jekyll serve` to start a test server at `0.0.0.0:4000`.
+Install bundler (`gem install bundler`)
+
+Install jekyll (`bundle install`, uses local Gemfile)
+
+Run server `bundle exec jekyll serve` to host at `0.0.0.0:4000`
