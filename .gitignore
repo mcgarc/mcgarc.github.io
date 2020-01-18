@@ -7,3 +7,7 @@
 files/*.tex
 files/*.log
 files/*.aux
+
+# Bundler
+/vendor/
+Gemfile.lock
