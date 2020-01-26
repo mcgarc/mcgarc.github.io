@@ -1,4 +1,7 @@
-# Teriyaki Salmon
+---
+title: Teriyaki Salmon
+layout: page
+---
 
 Marinade salmon (and maybe the vegetables) in:
 * Soy sauce
