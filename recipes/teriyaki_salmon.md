@@ -1,6 +1,7 @@
 ---
 title: Teriyaki Salmon
 layout: page
+category: recipe
 ---
 
 Marinade salmon (and maybe the vegetables) in:
