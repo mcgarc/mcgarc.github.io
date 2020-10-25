@@ -55,8 +55,8 @@ masala for a couple of minutes. Toss in chopped fresh tomatoes and fry until
 cooked. You're going to put this into the lentils so it should probably be
 over-seasoned to the taste.
 
-Once the lentils are creamy add the onion mix. You can either leave bubbling for
-another ten minutes or turn off the heat and reheat when ready.
+Once the lentils are creamy add the onion mix. Leave with the heat off and lid
+on for 5mins then serve, or longer and reheat to serve as needed.
 
 ## Cheating
 
