@@ -68,6 +68,10 @@ function buildSection(data, number) {
   if (colorFlag) {
     colorStyle = 'bg-primary text-white';
   }
+  var atomStyle = 'atom_black'
+  if (colorFlag) {
+    atomStyle = 'atom_white'
+  }
 
   var sectionTop = `
     <!-- Section start -->
@@ -76,7 +80,9 @@ function buildSection(data, number) {
       <div class="container">
 
         <!-- Section heading -->
-        <h2 class="resume-section-heading text-left mb-4 p-3 "><i class="fas fa-atom"></i>&nbsp ${data["title"]}</h2>
+        <h2 class="resume-section-heading text-left mb-4 p-3 ">
+          <img height=60px src="img/${atomStyle}.svg">
+&nbsp ${data["title"]}</h2>
 
 	  			<div class="ml-3">
   `
