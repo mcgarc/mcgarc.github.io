@@ -86,6 +86,32 @@
       "id":"software",
       "positions":[
         {
+          "title":"mlcourse.ai",
+          "start":"Winter 2019",
+          "comments":[
+            "Open source machine learning course from <a href=\"https://ods.ai/\">Open Data Science</a>",
+            "Supervised machine learning and basics of data science"
+          ],
+          "skills":[
+            "Python",
+            "Pandas",
+            "scikit-learn"
+          ]
+        },
+        {
+          "title":"Qiskit contributor",
+          "start":"December 2019",
+          "end":"Present",
+          "comments":[
+            "Contributor to open source project",
+            "<a href=\"https://qiskit.org\">Qiskit</a> is a toolkit for interacting with quantum processors"
+          ],
+          "skills":[
+            "Python",
+            "quantum computing"
+          ]
+        },
+        {
           "title":"Oxford University Rowing Clubs Website",
           "start":"October 2017",
           "end":"January 2019",
@@ -101,19 +127,6 @@
             "Apache",
             "AWS"
           ]
-        },
-        {
-          "title":"Qiskit contributor",
-          "start":"December 2019",
-          "end":"Present",
-          "comments":[
-            "Contributor to open source project",
-            "<a href=\"https://qiskit.org\">Qiskit</a> is a toolkit for interacting with quantum processors, procuced by IBM."
-          ],
-          "skills":[
-            "Python",
-            "quantum computing"
-          ]
         }
       ]
     },
@@ -123,12 +136,13 @@
       "id":"other",
       "positions":[
         {
-          "title":"Python lab demonstrating, Imperial College London",
+          "title":"Undergraduate lab demonstrating, Imperial College London",
           "start":"October 2018",
           "end":"Present",
           "comments":[
-              "Demonstrator in Python course for second year physics undergraduates",
-              "Teaching basics of object-oriented programming"
+              "Demonstrator in courses for second year physics undergraduates",
+              "Python: basics of object-oriented programming",
+              "Radioactivity: teaching simulation with <a href=\"https://geant4.web.cern.ch/node/1\">GEANT4</a>"
           ]
         },
         {
