@@ -6,6 +6,33 @@
   "sections": 
   [
     {
+      "title":"Employment",
+      "publish":true,
+      "id":"employment",
+      "positions":[
+        {
+          "title":"University of Bath",
+          "subtitle":"Research Associate: Centre for Photonics and Photonic Materials",
+          "start":"April 2022",
+          "end":"Present",
+          "comments":[
+            "Building novel fibre optic components for a quantum computing and communication",
+            "Connectorizing hollow core optical fibres",
+            "Desiging photon pair sources",
+            "Implementing a low-loss fibre switch",
+            "Interfacing photons with microresonators",
+            "Development of quantum memory techniques",
+            "Overseeing work of postgraduate students in the laboratory"
+          ],
+          "skills":[
+            "quantum optics",
+            "photonics",
+            "fibre-optic fabrication"
+          ]
+        }
+      ]
+    },
+    {
       "title":"Education",
       "publish":true,
       "id":"education",
@@ -14,11 +41,11 @@
           "title":"Imperial College London",
           "subtitle":"PhD: Controlled Quantum Dynamics",
           "start":"October 2017",
-          "end":"Present",
+          "end":"April 2022",
           "comments":[
            "Student in controlled quantum dynamics centre for doctoral training",
-           "Graded “distinction” in master’s year",
-           "Designing and microfabricating a chip trap for robust containment and control of cold molecules",
+           "Achieved <i>distinction</i> in master’s year",
+           "Designed and microfabricated a chip trap for robust containment and control of cold molecules",
            "Applications in quantum technology, thermodynamics and communications"
           ],
           "skills":[
@@ -85,11 +112,12 @@
       "id":"software",
       "positions":[
         {
-          "title":"mlcourse.ai",
+          "title":"Open machine learning course, Open Data Science",
           "start":"Winter 2019",
           "comments":[
-            "Open source machine learning course from <a href=\"https://ods.ai/\">Open Data Science</a>",
-            "Supervised machine learning and basics of data science"
+            "Studied machine learning as part of a global cohort",
+            "Supervised machine learning and core data science skills",
+            "Placed in top hundred students"
           ],
           "skills":[
             "Python",
@@ -98,24 +126,11 @@
           ]
         },
         {
-          "title":"Qiskit contributor",
-          "start":"December 2019",
-          "end":"Present",
-          "comments":[
-            "Contributor to open source project",
-            "<a href=\"https://qiskit.org\">Qiskit</a> is a toolkit for interacting with quantum processors"
-          ],
-          "skills":[
-            "Python",
-            "quantum computing"
-          ]
-        },
-        {
           "title":"Oxford University Rowing Clubs Website",
           "start":"October 2017",
           "end":"January 2019",
           "comments":[
-              "Began and lead development of a new CMS-based website as coordinator of small team",
+              "Began and led development of a new CMS-based website as coordinator of small team",
               "Integrated with an existing system for handling entries into rowing events",
               "Also responsible for deployment and server maintenance"
           ],
