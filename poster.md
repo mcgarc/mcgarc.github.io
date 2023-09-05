@@ -1,21 +1,18 @@
 ---
-title: Poster
+title: Towards fibre-integrated optical switching 
 layout: page
 permalink: '/poster'
 ---
 
-# Towards fibre-integrated optical switching
-
 QUAMP 2023, Glasgow, 11-13 September
 
-Thank you for your interest in my poster, _Towards fibre-integrated optical
-switching_. This informal summary is intended to be read alongside the poster
+Thank you for your interest in my poster, this informal summary is intended to be read alongside the poster
 for further information. A copy of the poster [can be found
-here](files/posters/2023_QUAMP.pdf). The relevant publication [is available as
-a preprint](/), and you can find more information about me
+here](files/posters/2023_QUAMP.pdf). Additional information concerning phase
+modulation [is available in this preprint](/), and you can find more information about me
 [on this website](/index.html).
 
-## Phase modulation of light
+# 1. Phase modulation of light
 
 The challenge presented here is to induce a phase shift in light without loss
 and on fast time scales (100MHz or faster). Such a tool would be extremely
@@ -45,7 +42,7 @@ We have also demonstrated switching of pulsed signals, however that is not
 detailed here. This shows that progression towards phase modulation of single
 photons is possible.
 
-## Enhancement with a cavity
+## 2. Enhancement with a cavity
 
 The effect is enhanced inside a cavity, by the product of the finesse of the
 signal and the finesse of the control. We have begun investigating with a builk
@@ -58,7 +55,7 @@ Sufficient enhancement may even pave the way to interaction between a single
 signal and control photon, which could enable the implmentation of two-photon
 quantum gates.
 
-## Integration with optical fibres
+## 3. Integration with optical fibres
 
 We are undertaking work to connectorise hollow core optical fibres (HCF) to single
 mode fibres (SMF). This requires careful mode matching between the modes in the
