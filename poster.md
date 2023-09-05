@@ -11,8 +11,8 @@ QUAMP 2023, Glasgow, 11-13 September
 Thank you for your interest in my poster, _Towards fibre-integrated optical
 switching_. This informal summary is intended to be read alongside the poster
 for further information. A copy of the poster [can be found
-here](/files/posters/QUAMP2023.pdf). The relevant publication [is available as
-a preprint](https://cmcgarry.co.uk), and you can find more information about me
+here](files/posters/2023_QUAMP.pdf). The relevant publication [is available as
+a preprint](/), and you can find more information about me
 [on this website](/index.html).
 
 ## Phase modulation of light
