@@ -12,7 +12,7 @@ here](files/posters/2023_QUAMP.pdf). Additional information concerning phase
 modulation [is available in this preprint](/), and you can find more information about me
 [on this website](/index.html).
 
-# 1. Phase modulation of light
+## 1. Phase modulation of light
 
 The challenge presented here is to induce a phase shift in light without loss
 and on fast time scales (100MHz or faster). Such a tool would be extremely
