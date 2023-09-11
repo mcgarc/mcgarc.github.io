@@ -6,11 +6,12 @@ permalink: '/poster'
 
 QUAMP 2023, Glasgow, 11-13 September
 
-Thank you for your interest in my poster, this informal summary is intended to be read alongside the poster
-for further information. A copy of the poster [can be found
-here](files/posters/2023_QUAMP.pdf). Additional information concerning phase
-modulation [is available in this preprint](/), and you can find more information about me
-[on this website](/index.html).
+[**See the relevant preprint**](https://arxiv.org/abs/2309.04313)
+
+Thank you for your interest in my poster, this informal summary is intended to
+be read alongside the poster for further information. A copy of the poster [can
+be found here](files/posters/2023_QUAMP.pdf), and you can find more information
+about me [on this website](/index.html).
 
 ## 1. Phase modulation of light
 
