@@ -20,8 +20,8 @@ After atleast 30mins, pan fry salmon in butter (without marinade bits)
 Remove salmon from pan and rest. Fry veg with marinade. I like to use one green
 and one other colour. Can use:
 * Red peppers (recommended)
-* Cougette
-* Samfire
+* Courgette
+* Sampfire
 * Asparagus (not sure about this with the pepper, another veg. might be nice)
 
 Plate and serve. Maybe with rice.

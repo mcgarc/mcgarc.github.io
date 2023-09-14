@@ -20,7 +20,7 @@ can make a big batch. You can also save some of the curry paste.
 * Garam masala
 
 For the curry paste:
-* Fresh corriander stalks (you could use seeds but this way you can save the leaves for a garnish)
+* Fresh coriander stalks (you could use seeds but this way you can save the leaves for a garnish)
 * Cumin seeds
 * Fennel seeds
 * Fresh chilli
