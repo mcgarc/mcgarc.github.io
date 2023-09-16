@@ -8,10 +8,9 @@ QUAMP 2023, Glasgow, 11-13 September
 
 [**See the relevant preprint**](https://arxiv.org/abs/2309.04313)
 
-Thank you for your interest in my poster, this informal summary is intended to
-be read alongside the poster for further information. A copy of the poster [can
-be found here](files/posters/2023_QUAMP.pdf), and you can find more information
-about me [on this website](/index.html).
+This informal summary is intended to supplement my poster, [which can be found
+here](files/posters/2023_QUAMP.pdf). I am grateful to the conference organisers
+for awarding me the quantum optics poster prize.
 
 ## 1. Phase modulation of light
 
@@ -19,7 +18,7 @@ The challenge presented here is to induce a phase shift in light without loss
 and on fast time scales (100MHz or faster). Such a tool would be extremely
 valuable for implmenting photonic quantum technologies, including state
 generation, multiplexing and potentially even the implementation of quantum
-gates. Conventional modulators tend to be either fast but low loss (LiNbO
+gates. Conventional modulators tend to be either fast but lossy (LiNbO
 crytals, with 3dB loss) or low loss but slow (acoustic modulators, at a few
 MHz).
 
@@ -38,17 +37,18 @@ and hence a different phase is accumulated, whilst still experiencing low loss.
 
 We observe phase shift of 0.90(5) multiples of pi, with transmission of 74(2)%.
 Various routes to improvement, including optical pumping of the Rb and
-enhancement in a cavity or by integration with a waveguide.
-We have also demonstrated switching of pulsed signals, however that is not
-detailed here. This shows that progression towards phase modulation of single
-photons is possible.
+enhancement in a cavity or by integration with a waveguide.  We have also
+demonstrated switching of pulsed signals, however that is not detailed here
+(see the preprint). This shows that progression towards phase modulation of
+single photons is possible.
 
 ## 2. Enhancement with a cavity
 
-The effect is enhanced inside a cavity, by the product of the finesse of the
-signal and the finesse of the control. We have begun investigating with a builk
-cavity (where we can see finesse on the order of 10), however here switching
-speed becomes limited by the ringdown time of the cavity.
+The effect is enhanced inside a cavity, by a factor of the product of the
+finesse of the signal and the finesse of the control. We have begun
+investigating with a builk cavity (where we can see finesse on the order of
+10), however here switching speed becomes limited by the ringdown time of the
+cavity.
 
 To improve, we aim to use microcavities, such as microbubble resonators filled
 with Rb. This will allow for much higher finesse and shorter response times.
