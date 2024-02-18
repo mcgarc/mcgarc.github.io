@@ -15,3 +15,7 @@ Photonics West 2024 (talk) [Two routes towards fibre-integrated optical switchin
 
 QUAMP 2023 (poster prize in quantum optics) [Towards fibre-integrated
 optical switching](https://cmcgarry.co.uk/files/posters/2023_QUAMP.pdf)
+
+# Thesis
+
+[A microfabricated chip trap for laser-cooled molecules](https://spiral.imperial.ac.uk/handle/10044/1/102855)
