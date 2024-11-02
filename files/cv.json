@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Cameron McGarry",
+    "latex_class": "resumay"
+  },
+  "sections": 
+  [
+    {
+      "title":"Employment",
+      "publish":true,
+      "id":"employment",
+      "positions":[
+        {
+          "title":"University of Bath",
+          "subtitle":"Research Associate: Centre for Photonics and Photonic Materials",
+          "start":"April 2022",
+          "end":"Present",
+          "comments":[
+            "Designing, constructing and charactering optical devices for quantum technology - Development of photonic quantum memory techniques",
+            "Interfacing photons with microresonators",
+            "Management and supervision of postgraduate students",
+            "Data analysis in Python",
+            "Working efficiently as part of a team across various experiments"
+          ],
+          "skills":[
+            "quantum optics",
+            "photonics",
+            "optical fibre fabrication",
+            "Python",
+            "management and supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "title":"Education",
+      "publish":true,
+      "id":"education",
+      "positions":[
+        {
+          "title":"Imperial College London",
+          "subtitle":"PhD: Controlled Quantum Dynamics",
+          "start":"October 2017",
+          "end":"April 2022",
+          "comments":[
+           "Student in Controlled Quantum Dynamics centre for doctoral training",
+           "Designed, constructed and operated free space optical experiments",
+           "Designed and constructed a microfabricated chip trap",
+           "Automated lab measurements in Python",
+           "Disseminated research results",
+           "Collaborated effectively within diverse, multi-disciplinary teams across multiple experimental projects",
+           "Achieved <i>distinction</i> in master’s year"
+          ],
+          "skills":[
+            "quantum optics, chemistry and information",
+            "laser science",
+            "photonics",
+            "microfabrication",
+            "Klayout",
+            "Python",
+            "Mathematica"
+          ]
+        },
+        {
+          "title":"University of Oxford ",
+          "subtitle":"Master of Physics",
+          "start":"October 2013",
+          "end":"July 2017",
+          "comments":[
+            "Master of Physics, Upper Second Class Honours, integrated master’s and undergraduate degrees",
+            "Master’s project: use of compressed sensing in plasma wakefield accelerators",
+            "Specialised in laser science, photonics, quantum information and condensed matter physics"
+          ],
+          "skills":[
+            "atomic, molecular and laser physics",
+            "quantum information",
+            "condensed matter physics"
+          ]
+        }
+      ]
+    },
+    {
+      "title":"Research placements",
+      "publish":false,
+      "id":"research",
+      "positions":[
+        {
+          "title":"Superconducting qubits, Department of Physics, Unviersity of Oxford",
+          "start":"Summer 2016",
+          "comments":[
+            "Simulated and developed signal attenuator for use in experiments with superconducting qubits",
+            "Eight week summer placement in Prof. Peter Leek's research group."
+          ],
+          "skills":[
+            "quantum engineering",
+            "CAD",
+            "Python",
+            "Mathematica"
+          ]
+        },
+        {
+          "title":"Unconventional computing, YCCSA, University of York",
+          "start":"Summer 2015",
+          "comments":[
+            "Undertook research into novel forms of classical computation using nuclear magnetic resonance",
+            "Utilised this well-understood “sandbox” environment to implement systems with continuous logic"
+          ],
+          "skills":[
+            "quantum mechanics",
+            "Python"
+          ]
+        }
+      ]
+    },
+    {
+      "title":"Software projects",
+      "publish":true,
+      "id":"software",
+      "positions":[
+        {
+          "title":"Open machine learning course, Open Data Science",
+          "start":"Winter 2019",
+          "comments":[
+            "Studied machine learning as part of a global cohort",
+            "Supervised machine learning and core data science skills",
+            "Placed in top hundred students"
+          ],
+          "skills":[
+            "Python",
+            "Pandas",
+            "scikit-learn"
+          ]
+        },
+        {
+          "title":"Oxford University Rowing Clubs Website",
+          "start":"October 2017",
+          "end":"January 2019",
+          "comments":[
+              "Began and led development of a new CMS-based website as coordinator of small team",
+              "Integrated with an existing system for handling entries into rowing events",
+              "Also responsible for deployment and server maintenance"
+          ],
+          "skills":[
+            "Python",
+            "Django",
+            "SQL",
+            "Apache",
+            "AWS"
+          ]
+        }
+      ]
+    },
+    {
+      "title":"Teaching",
+      "publish":true,
+      "id":"other",
+      "positions":[
+        {
+          "title":"PhD supervisor, University of Bath",
+          "start":"October 2023",
+          "end":"Present",
+          "comments":[
+              "Supervising two PhD students as second supervisor",
+              "Managing students in the laboratory and guiding direction of projects",
+              "Supporting writing of theses and guiding direction of projects",
+              "Pastoral support and mentoring"
+          ]
+        },
+        {
+          "title":"Volunteer tutor, Blackett Academy, Imperial College London",
+          "start":"2020",
+          "end":"2021",
+          "comments":[
+              "Taught sixth form students A-level physics online",
+              "Conducted mock university interviews",
+              "Tutored mock exams including preparation, marking and feedback",
+              "Supported disadvantaged local students whose studies were interrupted by the coronavirus pandemic"
+          ]
+        },
+        {
+          "title":"Undergraduate lab demonstrating, Imperial College London",
+          "start":"October 2018",
+          "end":"April 2021",
+          "comments":[
+              "Demonstrator in courses for second year physics undergraduates",
+              "Python: basics of object-oriented programming",
+              "Radioactivity: teaching simulation with <a href=\"https://geant4.web.cern.ch/node/1\">GEANT4</a>"
+          ]
+        }
+      ]
+    },
+    {
+      "title":"Other experience",
+      "publish":false,
+      "id":"other",
+      "positions":[
+        {
+          "title":"Undergraduate lab demonstrating, Imperial College London",
+          "start":"October 2018",
+          "end":"April 2021",
+          "comments":[
+              "Demonstrator in courses for second year physics undergraduates",
+              "Python: basics of object-oriented programming",
+              "Radioactivity: teaching simulation with <a href=\"https://geant4.web.cern.ch/node/1\">GEANT4</a>"
+          ]
+        },
+        {
+          "title":"President, Corpus Christi College Boat Club",
+          "start":"March 2016",
+          "end":"March 2017",
+          "comments":[
+             "Responsibility for equimpent, safety and general running of the club",
+             "Set out plans for long-term financial security by working with alumni and rasing profile to attract potential sponsors"
+          ]
+        },
+        {
+          "title":"Treasurer, Oxford University Alternative Pickup Ice Hockey Club",
+          "start":"March 2014",
+          "end":"March 2015",
+          "comments":[
+             "Ran ice hockey sessions including collecting payment and ensuring safety",
+             "Reduced financial defecit by approximately 80%, by focusing heavily on recruitment"
+          ]
+        }
+      ]
+    }
+  ]
+}
