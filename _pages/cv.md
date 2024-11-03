@@ -26,6 +26,7 @@ Education
 Skills
 ======
 * Quantum physics, especially:
+  * Ion trapping
   * Atomic physics
   * Quantum optics
   * Laser science
@@ -41,16 +42,18 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
+    {% if post.category != 'thesis' %}
     {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
   
-<!--
-Talks
+Conference presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
