@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Recipes"
+permalink: /recipes/
+author_profile: true
+---
+
+{% include base_path %}
+
+These are some recipes that I like, they are normally based on something
+someone else has done and I have tweaked. They are not really authentic and are
+mostly just here for my personal reference.
+
+I don't normally cook with exact measures, so apply common sense and taste as you go to make these work!
+
+
+{% for recipe in site.recipes %}
+    <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+{% endfor %}
