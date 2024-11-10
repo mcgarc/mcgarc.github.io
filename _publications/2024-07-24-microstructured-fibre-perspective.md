@@ -2,8 +2,7 @@
 title: "Microstructured optical fibres for quantum applications: perspective"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-24-microstructured-fibre-perspective
-quantum technology.'
+permalink: /publication/2024-07-24-microstructured-fibre-perspective quantum technology.'
 excerpt: "<img src='/images/fibreperspectivemaster.png'>"
 date: 2024-07-29
 venue: 'APL Quantum'
