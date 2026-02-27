@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an experimental quantum physicist specialising in atomic, molecular, and optical physics. Currently, I am based at the University of Sydney, where I conduct research in the Quantum Control Laboratory.
+I am an experimental quantum physicist working in the [Quantum Control Laboratory](https://quantum.sydney.edu.au/research/quantum-control-laboratory/) at the University of Sydney.
 
-My work focuses on advancing the boundaries of quantum technology through the simulation of chemical dynamics using trapped ions. Additionally, I explore cutting-edge methods for quantum computing and sensing, with a particular interest in bosonic systems.
+Here I work with trapped ion systems, with a focus on using them to implement simulations of chemical dynamics.
 
-I have broad research interests that span molecular physics, quantum optics, and the fabrication of quantum devices, all with the goal of unlocking new possibilities in both fundamental science and applied quantum technologies.
-
+Research interests: quantum simulation, trapped ions, cold atoms and molecules, quantum optics
