@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Full CV
-
 You can [download my CV here](/files/cameron_mcgarry_cv.pdf) as a PDF.
 
 This is generated with my LaTeX class, [Resumay](https://github.com/mcgarc/Resumay).
